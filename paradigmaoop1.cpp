@@ -24,6 +24,7 @@ public:
 
 };
 
+
 int main()
 {
     //deklarasi dan pemberian nilai untuk objek mhs
