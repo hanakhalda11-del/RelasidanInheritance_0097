@@ -139,6 +139,5 @@ int main() {
     delete member1;
     delete member2;
 
-    
     return 0;
 }
