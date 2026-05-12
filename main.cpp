@@ -136,7 +136,6 @@ int main() {
     // tampil ulang semua member
     admin1.showAllMember(daftarMember);
 
-    
     delete member1;
     delete member2;
 
