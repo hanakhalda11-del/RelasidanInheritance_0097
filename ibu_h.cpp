@@ -40,4 +40,4 @@ void Ibu::cetakAnak() {
     cout << endl;
 }
 
-#endif 
+#endif
